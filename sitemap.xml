@@ -52,6 +52,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/family-game-night-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
