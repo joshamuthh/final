@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/game-night-kits-fun-laughter-and-stress-relief-at-home/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/movie-night-kits/
         </loc>
     </url>
     <url>
