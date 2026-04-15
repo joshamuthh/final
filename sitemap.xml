@@ -12,6 +12,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/family-gardening-kits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/puzzle-kits/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
